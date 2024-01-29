@@ -7,6 +7,6 @@ Requirements:
 
 1. Python , jupyter notebook.
 2. Numpy, Pandas, seaborn and sklearn library.
-3. Dataset - https://www.kaggle.com/competitions/titanic/data
+3. Dataset - https://www.kaggle.com/competitions/titanic/data 
 
 
